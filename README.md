@@ -37,6 +37,12 @@ A Machine Learning-powered web app built with **Streamlit** that predicts the ri
 | thal          | Thalassemia condition (0–3)        |
 
 ---
+## 🚀 Live Demo
+
+👉 [Click to Launch the App](https://thetensorcraft-heart-disease-predictor.streamlit.app/)  
+*(Runs on Streamlit Cloud)*
+
+---
 
 ## 📦 Installation
 

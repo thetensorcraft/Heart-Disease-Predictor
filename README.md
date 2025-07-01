@@ -41,7 +41,7 @@ A Machine Learning-powered web app built with **Streamlit** that predicts the ri
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/heart-disease-predictor.git
+git clone https://github.com/thetensorcraft/heart-disease-predictor.git
 cd heart-disease-predictor
 pip install -r requirements.txt
 streamlit run app.py
